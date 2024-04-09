@@ -3,9 +3,9 @@
 I'm a BYU undergraduate student majoring in statistics! I love sports, music, and learning how the world works. I am currently working on improving my skills as an aspiring Data Scientist!
 
 Here are some useful links of mine:
-* [Data Science Blog]("https://talmage-hilton.github.io/Stat-386-Blog/")
-* [LinkedIn]("https://www.linkedin.com/in/talmage-hilton-b74382279/")
-* [Facebook]("https://www.facebook.com/talmage.hilton") 
+* [Data Science Blog](https://talmage-hilton.github.io/Stat-386-Blog/)
+* [LinkedIn](https://www.linkedin.com/in/talmage-hilton-b74382279/)
+* [Facebook](https://www.facebook.com/talmage.hilton) 
 
 <!--
 **Talmage-Hilton/Talmage-Hilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
