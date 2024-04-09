@@ -7,8 +7,10 @@ I'm a BYU undergraduate student majoring in statistics! I love sports, music, an
 * [LinkedIn](https://www.linkedin.com/in/talmage-hilton-b74382279/)
 * [Facebook](https://www.facebook.com/talmage.hilton)
 
+<!--
 ### My GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Talmage-Hilton&theme=transparent)](https://git.io/streak-stats)
+-->
 
 <!--
 **Talmage-Hilton/Talmage-Hilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
