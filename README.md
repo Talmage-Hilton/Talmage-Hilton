@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a BYU undergraduate student majoring in statistics! I love sports, music, and learning how the world works. I am currently working on improving my skills as an aspiring Data Scientist!
+I'm a BYU student getting my master's in statistics! I love sports, music, and learning how the world works. I am currently working on improving my skills as an aspiring Data Scientist!
 
 ### My Links:
 * [Data Science Blog](https://talmage-hilton.github.io/Stat-386-Blog/)
