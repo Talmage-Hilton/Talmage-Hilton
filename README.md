@@ -7,7 +7,7 @@ I enjoy building things from scratch — understanding the mechanics behind algo
 
 ---
 
-## 🔬 Current Work
+## 🔬 Master's Thesis Work
 - **M.S. Thesis** — Developing the Lorenz Partition distribution, a novel Bayesian nonparametric model for clustering. Implementing a custom Neal's Algorithm 8-type MCMC sampler with simulation-based calibration and posterior validation.
 - **Graduate Research Assistant** — Collaborating with Dr. Richard L. Warr on manuscript development and statistical methodology for journal submission.
 
